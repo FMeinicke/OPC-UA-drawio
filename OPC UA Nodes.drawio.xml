@@ -1,1 +1,121 @@
-<mxlibrary>[{"xml":"jVDRDoIwDPyavs8t4QNE5Ulf/IIlq2zJYGQUBL/ewarEBxIfmvTues21oMpmqqLu7DUY9KDOoMoYAuWumUr0HqRwBtQJpBSpQF521MOqik5HbOkfg8yGUfsBM3NLMTLZ0+yZjGFoDS4eAer4CC3d3WvRZJEw78BIOO3mWCkOUWFokOKcRp7OkOUJziosutqyrWBO9xnXX+t2VWr4sA/cHrhqP/99Aw==","w":120,"h":60,"aspect":"fixed","title":"Node"},{"xml":"jVBBDoIwEHzN3mtreIConIwHXlDtSmsKJWVR8PUWWiUeSDxssjOzs5ldEHk9FF62+uQUWhAHELl3jmJXDzlaC5wZBWIPnLNQwI8r6mZWWSs9NvSPgUfDQ9oeI3O+3PFKke5otIn2rm8UTi4GYndzDZXmNWk8CzhtQU84rCaZqRSjQFcj+TGMPI0indJsY1qm0VQ62bLEyS7i6mtd7gpNOu0DlxfO2s+H3w==","w":240,"h":60,"aspect":"fixed","title":"Object Node"},{"xml":"jZHbDsIgDIafhnsE3QM4D1fGC30BlCooWxdWdfPphYGnCxNDSPr3699QymRZdUuvGrNCDY7JOZOlR6QUVV0JzjHBrWZyxoTg4TKx+EFHA+WN8lDTPwaRDFflLpAy690J9rTtG0iopd5l5PFSa4hOzuT0gDVt7D0yUTx1LhZBt0ZpvAUxitA6V6JDP3SSi0k8sYg8nuGDFEXslV8FnqD7OdmQymMtASsg34eSm9Vk8nTjND03YI8m24qcU23Sx5f1/U8hyF/1lO+VDOxrYw8=","w":240,"h":60,"aspect":"fixed","title":"ObjectType Node"},{"xml":"jZDBDsIgDIafpncGZg/g1J08mXjHUAcJG0vHlPn0soEuHpZ4IGn/j7/5WxBVG2qSvT47hRbEEURFzvlUtaFCa4Ezo0AcgHMWH/DTBi0WynpJ2Pl/DDwZHtKOmJSrJCNvFhMY/GQzIDd2CmdfAWJ/d52/mNfMeBn7PAfJY9jMskg5SI2uRU9T/PI0yuucZ5fyMo2m0dlWZk0OqW++1nWzWOTlPu16xIX93PgN","w":239.99999999999997,"h":59.99999999999999,"aspect":"fixed","title":"Variable Node"},{"xml":"jVHLDsIgEPwa7hW0H2B9nDxpvGNYhbjtNluqrV9vKdTHwcQQkp2dmQ3DClWU3ZZ1bXdkAIVaC1UwkY9V2RWAKGTmjFArIWU2XCE3P9jZyGa1Zqj8PwYZDTeNLcTOUbPTJ4RDX0MkG99jIpnaykDwzoRanqnye/cInMwnnMRywI3Vhu6T2CEWhMTjJLVZhBNEnukKH0yeh1npXcAeup/ZxlYKtgUqwXM/SO7OeJvyzWP+zIK72GTLU083EV9e1vdPDUX6rAm+lzJyXzt7Ag==","w":240,"h":60,"aspect":"fixed","title":"VariableType Node"},{"xml":"jVLRboMwDPyavKIQBtIeB137skmTth9IGw+iGYxC2sK+fgkJbalUaSJIuTs7Ts5mWdWOOyP75p0UIMteWVYZIht27VgBIhNcK5ZtmBDc/UxsH6jprPJeGujsfxJESDhJPEJgNtLKr6mHIAx2wiicwFh9kPgm94AfNGirqXNSq5XyMeUS8IK6XglDI3t/SDvW/qHJXg76kPSEU+1PKP2uIjJq8JXy0i2e8JyJirPcla5m4nlNpB4l+X1AekPwO+Ka4VYoi7rzN+MOGjp2CrwvabizovMCrKEfqAjJzF5kRVE4Gu+cODjTwUWUMjpwIb6ps5/615cSxYKjtcJjjXhz/Db3n+Njd5yxMD7s8EzF9u6AWrBmciFnrWwTu/wUpoA3oOsmphWRk0PA9SX1Oi9uE0dmgdfRnLXV5P4B","w":240,"h":60,"aspect":"fixed","title":"DataType Node"},{"xml":"jVLbboMwDP2avKIQBtIeB1v7sklTtx9IiQvRAkYhbWFfP4eEXiZNmghSzvFxTmKbZVU3ba0c2jdUYFj2wrLKIrqw66YKjGGCa8WyZyYEp5+JzR/RdInyQVro3X8SREg4SXOEwOzgAJRdw+c8QIiObjYxegLrdC3Nq9yDecdRO409hTqtlNeUq+DJ6OYuMLZy8Id0U+Nfm+zlqOtkQDM3/oTS7ypEq0bvlJe0eMJzJirOcrKuiEjvEE8eC08k+Z0gvREs+TfEVU4reBrd+2txghaPvQJfmTRcWOF5Bc7iF1Ro0C6FyIqiINr8KkNNZQdSlDI+/0IcsHcf+ttbiWLFsa7CGwyy1n2z003r4nUO2pgbx03uP+Jjy6jQMP3Z9oWKPd8CduDsTJKzVq6NrX8Io8FbiKYEi8jJMeDmknodItrEOVrhdV6X2N04/wA=","w":240,"h":60,"aspect":"fixed","title":"ReferenceType Node"},{"xml":"jVHLbsIwEPwa342D+AAC5VSpElLvFl6whZO1nE0d+HrWsSHtAakHSzuznn3MiqbtpkPUwX6iAS+avWjaiEgl6qYWvBdKOiOanVBK8hPq4012NWdl0BF6+o9AFcGP9iMU5ttBKuRAN1/JweqQQ+JB4Y5ZvQ0QXQcE8Tf/tZDbZB3BMehTVib+wZyljnfcrTg8uwnM0d2h4ohjbyDPJRlxR4PpCSjiFVr0mJsZOOvRUy6BPdUKasO4LgORYHpryExVNw6APG288ZfkDNlqyrqYJi24i62yTeX0UPDlJV3s5aA6/ITLJefcn0M/AA==","w":239.99999999999997,"h":59.99999999999999,"aspect":"fixed","title":"View Node"},{"xml":"jZFBDoMgEEVPwx4x6QG0rauuegISRiFFx+BYtafvKLSmC5MuSOb94cNnEHnZzlXQvb2hAS/yi8jLgEixaucSvBdKOiPys1BK8hLqetDNtq7sdYCO/jGoaHhqP0JUbkAWTZQHWnyS2eb6gaEIOHYGVn/GNFhtcGKQK1DAB5ToMbBioNaj5xhFjR3d3Ws9Sp2Y06UQCObD4JuUUleALVBYeMvkDNkUXsbHSQuuscl2SpoeIjdf6z4GLtIkPrhPfOv9fMgb","w":200,"h":60,"aspect":"fixed","title":"Method Node"},{"xml":"pVNBbsMgEHwNx1YE12qvcdzk0kpVmw8QWNuo2FiYOE5e37Uhjq0kUqsekNjZnYHdARKtym5jeV28GwmaRK8kWlljnN+V3Qq0JowqSaKUMEZxEba+k10MWVpzC5X7DYF5Qsv1HjzigcYddQCgkktrzQGjnTbie1uoikRJ47h1txKFK7GNdIFbpH6pU6+ziM+UKYD5tdLn6iE9if1NQOZwt7kBCp1twJTg7BFLDkq6wlfEvn9agMoLN8csaO5UO5fnjQ/zUW484cMoPPhS0pi9FRDQ6ZDPhV0Y8hOda2OjObgrIm4mbVygwbPb/kVX/n1CBjggAdtjDddm4jTf+K5/aAnXKkfDUoHjBItAC9YpwfUyJEolZU9MLDTqxHeDCMW47m8+9BInJE4RyUw1OvsyetcLQjcbrzBVBcIFsfF9zlxlt10NQvQRHfyfgUHpgT3PKSbLGvijJRhevqsvn/7mHw==","w":240,"h":1,"aspect":"fixed","title":"Symmetric Reference"},{"xml":"pVNBbsMgEHwNx1bErtVe47jJpZWqNh8gsLZRMViYJE5e37XBjq0kUqsekNjZ2YHdARKvqnZjWV2+GwGKxK8kXlljnN9V7QqUIhGVgsQZiSKKi0TrO9lFn6U1s6DdbwoiX3Bgag8e8UDjTioAoMXSWnPEaKcM/96WUpM4bRyzbkhoo5Gdlq7CDrIFbrHqS547iUUysKcA5tdSDew+HWKKsb8EiALu9tVDoakNmAqcPSHlKIUrPSPxrdMSZFG6OWZBMScPc3nW+LAY5cYTPozEgy+Uxuwth4BO5zsQ2zDfJzrXxkYLcFeFuJm0cYF6u25bF19Z9wk54IA4bE81XPuI03xju+6NpUzJAk3MOI4TLAIHsE5yppYhUUkhusLUQiPPbNeLdM7U3c37XpKUJBkiudGjsy+jd50gtLPxcqM1cBfExqc5czW67WoQoo/o4P8MDEoP0fO8xOR5A3+0BMPLT/X06Uf+AQ==","w":240,"h":1,"aspect":"fixed","title":"Asymmetric Reference"},{"xml":"pVPRboMgFP0aHrdQndlea137siXLth+gclUSBIPU2n79LoJW0zbZsgcS7rnnHrj3AIk3db8zrKneNQdJ4lcSb4zW1u/qfgNSkogKTuKMRBHFRaLtnexqyNKGGVD2NwWRL+iYPIBHPNDakwwAKL42Rh8x0g0oEqetZcaOmNIKiWlla7x8tsItFnyJs6teJSN7DmB+K6Rj0zE9i/35wEu429IAhX52oGuw5oSUo+C28ozEd00rEGVll5gByazolvKs9WE5yU0nfGiBB18orT6YHAI6H+1I7MNon+hSGxstwV4V4mbWxgUanLrtWnzl2icUgAPK4fvUwLWFOM03tnfPK2VSlGhiluM4wSDQgbEiZ3IdErXg3BWmBlpxZvtBxDnTuJsPvSQpSTJECq0mZ18m75wg9Ivx5lopyG0Qm17lwtXotqtBiD6ig/8zMCg9RM/LEl0ULfzREgwvn9TT53/4Bw==","w":240,"h":1,"aspect":"fixed","title":"Hierarchical Reference"},{"xml":"jZLdbsMgDIWfhntC1gdY05+rSdP2BGhYAYmEynHbtE8/Nw4N0VRpF0j252PDAVTddOMR7cl/JAdR1XtVN5gSSdSNDcSojA5O1TtljOalzOFFtZqq+mQRevpPg5GGi41nECJgoFucAfTuHTFdOdt/pZ7pdiCLlGEvzFPHp99VHHLHd7g/2qtNVpeA64cQH2qdy0UuBwDXwktPE5oNHSF1QHhjyTU48qLYiG3tIbSe1gwhWgqX9Xg7SNo+xz13+EyBN14kQzrjD8y0vNssHOe7fdPr2Wy0BfrTyEFhY0HTU+V0+RIiL3/MLw==","w":240,"h":1,"aspect":"fixed","title":"HasComponent Reference"},{"xml":"jVLbbsMgDP0a3glZP2BLL09Tp+0L0LACEpeKuG26r58bh4ZoqrQHJPucY5tjEG0XxkPWJ/ueDHjR7kTb5ZSQozB24L1Q0hnRboVSko5Q+ydsM7HypDNE/E+B4oKL9mdghIEBb34GIJrXnNOVst1n0NEcIzFvA+qMhYhpwiwGcrBtKKSqL/dzb9FsiroGiN87f1fLQlc5XwJMD099TdBs6gApAOYbSa7OoGXFhq1LC663uMYyeI3usm6vB077R7vHhI/kaPAiGdI5f8OM1vstwnHe74tc9yajPeCfQgoqGws0PVdJl2/B8vrX/AI=","w":240,"h":1,"aspect":"fixed","title":"HasProperty Reference"},{"xml":"jVJdbsMgDD4N7wTWAyzp2qdJlXYCVqyARuKKOG26088L0CSaKu0Byd+PDR8gdNNNx2gu7h0tBKHfhG4iIqWqmxoIQSjprdB7oZTkJdThiVrNqryYCD39p0GlhqsJIyQmEQPdQyagt68x4o2RxfEzQB3w/CV0PZCJVKQee/bXjjrOsK+45L4P//07pNoV95pg/eBDcc9yxpJxOgbYFp4mm6kc6wjYAcU7W27ekkuOXQovHfjW0ZaLEAz563a8GRJsH+MeO5zQ88aLZcAxniGz6xsuxinf8IvczuagLdCfRi5WMRZqfrACl4+R7Ot/8wM=","w":240,"h":1,"aspect":"fixed","title":"HasTypeDefinition Reference"},{"xml":"jVJRbsMgDD0N/wTWAyzp2q9Jk3YCVqyARuKKOG26088NoSGaKu0DyX7v2eYZhG666RjN2b2jhSD0m9BNRKQUdVMDIQglvRV6L5SSfIQ6PGGrmZVnE6Gn/xSoVHAxYYSEJGCgW1gA6O1rjHjlzOL4FaAOePoWuh7IRMpUjz3ra0cde9hXHHLdp/+5N6l2WV0CzB98uKtlpos8XQNsC0+dzdBi6wjYAcUbS67ekkuKXTIvHfjW0RaLEAz5y7a9GVLaPto9Jnyg58GrZMAxnmBByw1n4bRs+EVue7PRFuhPIQeFjRWaHyyn68dI8vLf/AI=","w":240,"h":1,"aspect":"fixed","title":"HasSubtype Reference"},{"xml":"jVJRbsIwDD1N/tNkHADK4GvSpJ0gEKuJltYoNVA4PaZpaKoJaR+R7Of3nDzHQtftsI/m5L7QQhD6U+g6IlKK2qGGEISS3gq9FUpJPkLt3lSrsSpPJkJH/xGoJLiYcIaEJKCnW5gA6Ow6Rrxydgh4/BV605OJlMEOO2ZuHLX8+m3FISt+/P0pr1aZXQJc3/nwZMtcLvL0ALANvPU0QpOhPWALFG9MuXpLLjFWybZ04BtHSyxCMOQvy/amT2nzave64Rs9XzxTejzHI0xoOdtMHKbZfshlbzbaAP0RclDYmKHxq3I6r0SilxvzAA==","w":240,"h":1,"aspect":"fixed","title":"HasEventSource Reference"},{"xml":"jZLBbsIwDIafJve0HRLXUQYnJKQ9QSBWEy1NkGOg8PRzm4a2mpB2iGR//u3YTkRVt90e1cUcggYnqi9R1RgCJavtanBOlNJqUW1FWUo+oty9iRZDVF4Ugqf/JJQp4abcFRJJINLDjQC8/kQMd/ZOLpx/RLWJpJAy9MGzcmOo5e63BZuc8W2ffXqxyuo54PjOul4tc3jmaxUN6LFU7xwVEaBnsubO1kxTj6AbeDv2gMaZ9xBaIHyw5G41maRYpc1IA7YxtGQITpG9LcurmNzmVe51wzFYvniSxHDFM4x0vv4s7Mb1f8hlbd5FA/QnkY3ZGBMaXjO7069J8vmn+gU=","w":240,"h":1,"aspect":"fixed","title":"HasInterface Reference"}]</mxlibrary>
+<mxlibrary>[
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Object\" style=\"rounded=0;fontSize=26;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.12,0,0,0,0],[0.12,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.37,0,0,0,0],[0.37,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.62,0,0,0,0],[0.62,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.87,0,0,0,0],[0.87,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "Object Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"ObjectType\" style=\"rounded=0;fontSize=26;fontStyle=2;shadow=1;fillColor=#F5F5F5;strokeColor=#666;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.12,0,0,0,0],[0.12,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.37,0,0,0,0],[0.37,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.62,0,0,0,0],[0.62,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.87,0,0,0,0],[0.87,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "ObjectType Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Variable\" style=\"rounded=1;fontSize=26;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.12,0,0,0,0],[0.12,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.37,0,0,0,0],[0.37,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.62,0,0,0,0],[0.62,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.87,0,0,0,0],[0.87,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "Variable Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"VariableType\" style=\"rounded=1;fontSize=26;fontStyle=2;shadow=1;fillColor=#F5F5F5;strokeColor=#666;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.12,0,0,0,0],[0.12,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.37,0,0,0,0],[0.37,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.62,0,0,0,0],[0.62,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.87,0,0,0,0],[0.87,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "VariableType Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"DataType\" style=\"verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.basic.polygon;polyCoords=[[0.05,0],[0.95,0],[1,0.5],[0.95,1],[0.05,1],[0,0.5]];polyline=0;rounded=1;shadow=1;strokeColor=#666;labelPosition=center;align=center;fontSize=26;fontStyle=2;fillColor=#F5F5F5;points=[[0,0.5,0,0,0],[0.02,0.25,0,0,0],[0.02,0.75,0,0,0],[0.05,0,0,0,0],[0.05,1,0,0,0],[0.16,0,0,0,0],[0.16,1,0,0,0],[0.27,0,0,0,0],[0.27,1,0,0,0],[0.37,0,0,0,0],[0.37,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.63,0,0,0,0],[0.63,1,0,0,0],[0.73,0,0,0,0],[0.73,1,0,0,0],[0.84,0,0,0,0],[0.84,1,0,0,0],[0.95,0,0,0,0],[0.95,1,0,0,0],[0.98,0.25,0,0,0],[0.98,0.75,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "DataType Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"ReferenceType\" style=\"verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.basic.polygon;polyCoords=[[0.05,0],[1,0],[0.96,0.5],[1,1],[0.05,1],[0,0.5]];polyline=0;rounded=1;shadow=1;strokeColor=#666;labelPosition=center;align=center;fontSize=26;fontStyle=2;spacingRight=0;fillColor=#F5F5F5;points=[[0,0.5,0,0,0],[0.02,0.25,0,0,0],[0.02,0.75,0,0,0],[0.05,0,0,0,0],[0.05,1,0,0,0],[0.16,0,0,0,0],[0.16,1,0,0,0],[0.27,0,0,0,0],[0.27,1,0,0,0],[0.37,0,0,0,0],[0.37,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.63,0,0,0,0],[0.63,1,0,0,0],[0.75,0,0,0,0],[0.75,0.99,0,0,0],[0.87,0,0,0,0],[0.87,0.99,0,0,0],[0.96,0.5,0,0,0],[0.98,0.25,0,0,0],[0.98,0.75,0,0,0],[1,0,0,0,0],[1,0.99,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "ReferenceType Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"View\" style=\"shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=0;strokeColor=default;fontSize=26;points=[[0,1,0,0,0],[0.02,0.73,0,0,0],[0.04,0.5,0,0,0],[0.06,0.28,0,0,0],[0.07,0.08,0,0,0],[0.12,0,0,0,0],[0.12,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.37,0,0,0,0],[0.37,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.62,0,0,0,0],[0.62,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.87,0,0,0,0],[0.87,1,0,0,0],[0.93,0.08,0,0,0],[0.94,0.28,0,0,0],[0.96,0.5,0,0,0],[0.98,0.73,0,0,0],[1,1,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "View Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Method\" style=\"ellipse;rounded=1;shadow=0;strokeColor=default;fontSize=26;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 200,
+      "h": 60,
+      "aspect": "fixed",
+      "title": "Methond Node"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=blockThin;startArrow=blockThin;html=1;endSize=15;startSize=15;endFill=1;startFill=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"ReferenceType\" style=\"edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.225\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-27\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "Symmetric Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=blockThin;startArrow=none;html=1;endSize=15;startSize=15;endFill=1;startFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"ReferenceType\" style=\"edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.225\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-27\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "Asymmetric Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;startArrow=none;html=1;endSize=15;startSize=15;endFill=0;startFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"ReferenceType\" style=\"edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.225\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-26\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "Hierarchical Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=ERone;startArrow=none;html=1;endSize=15;startSize=15;endFill=0;startFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "HasComponent Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=ERmandOne;startArrow=none;html=1;endSize=15;startSize=15;endFill=0;startFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "HasProperty Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=doubleBlock;startArrow=none;html=1;endSize=15;startSize=15;endFill=1;startFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "HasTypeDefinition Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=doubleBlock;startArrow=none;html=1;endSize=15;startSize=15;endFill=0;startFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "HasSubtype Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;startArrow=none;html=1;endSize=15;startSize=15;endFill=0;startFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "HasEventSource Reference"
+    },
+    {
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;startArrow=none;html=1;endSize=15;startSize=15;endFill=0;startFill=0;dashed=1;dashPattern=8 8;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "w": 240,
+      "h": 1,
+      "aspect": "fixed",
+      "title": "HasInterface Reference"
+    }
+  ]</mxlibrary>
