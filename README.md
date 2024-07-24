@@ -6,4 +6,9 @@ This library includes all the different node types as well as reference types.
 Simply download and import the XML file into the drawio editor by opening the Scratchpad editor using the little pencil button in the Scratchpad sidebar and then selecting import.
 Or follow the tutorial in the [drawio blog](https://www.drawio.com/blog/public-custom-libraries).
 
+The [showcase.drawio.svg] displays all the different node and reference types that are available with this library:
+
+![](showcase.drawio.svg)
+
 [drawio]: https://drawio.com
+[showcase.drawio.svg]: showcase.drawio.svg
